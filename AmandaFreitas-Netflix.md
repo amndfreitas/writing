@@ -15,7 +15,9 @@
 É um serviço de streaming por assinatura que oferece uma vasta biblioteca de filmes, séries, documentários e animações, incluindo conteúdos originais, com diferentes planos de pagamento, para assistir online ou baixar em diversos dispositivos pra assistir quando estiver offline.
 
 ### 1.2 Como funciona
- Os usuários pagam uma mensalidade para acessar um catálogo ilimitado, que inclui produções originais e licenciadas. Os vídeos são transmitidos pela internet. A plataforma ajusta a resolução (SD, HD, 4K) automaticamente com base na velocidade da sua conexão  de acordo com o seu plano de pagamento.  É possível baixar conteúdos selecionados no aplicativo para assistir sem internet. A conta é destinada ao uso doméstico (mesma residência), sendo necessário definir uma "Residência Netflix" para o acesso, com opções de assinantes extras fora dela.
+A Netflix funciona por meio de uma assinatura mensal que libera acesso ilimitado a filmes e séries disponíveis em seu catálogo. A qualidade da imagem (SD, HD ou 4K) é ajustada automaticamente de acordo com plano escolhido e com sua velocidade de internet. 
+Além do streaming online, você pode baixar títulos para assistir offline. 
+Importante: a conta deve ser usada em uma única "Residência Netflix", mas é possível contratar assinantes extras que morem em outros endereços.
 
 ### 1.3 Dispositivos compatíveis
 Você pode assistir à Netflix em: smart TV, smartphone, tablet, aparelho de streaming ou videogame, desde que seja compatível com a plataforma, que tenha conexão com a Internet e ofereça o aplicativo Netflix, ou no computador, em [netflix.com](https://www.netflix.com/).
@@ -49,7 +51,7 @@ Acesse pelo navegador ou app para Windows. Veja os [Requisitos de sistema](#requ
 ### 2.1 Como criar sua conta 
 Acesse netflix.com (ou baixe o app), insira seu e-mail e crie uma senha. Escolha um dos planos (Básico, Padrão ou Premium), defina a forma de pagamento (cartão de crédito/débito ou cartão pré-pago) e confirme para iniciar sua assinatura, permitindo assistir imediatamente em diversos dispositivos.
 
-![Criar conta](https://github.com/amndfreitas/writing/blob/main/tela%20criar%20conta%20(1).png)
+![Criar conta](https://raw.githubusercontent.com/amndfreitas/writing/refs/heads/main/tela_criar_conta__1_-removebg-preview.png)
 
 
 ### 2.2 Escolhendo o plano ideal
@@ -63,7 +65,7 @@ Para escolher o plano ideal da Netflix, considere o número de pessoas assistind
 
 (Valores atualizados em Fevereiro/2026)
 
-![Escolher planos](https://raw.githubusercontent.com/amndfreitas/writing/main/tela%20escolher%20planos.png)
+![Escolher planos](https://raw.githubusercontent.com/amndfreitas/writing/refs/heads/main/tela_escolher_planos__1_-removebg-preview.png)
 
 ---
 
@@ -79,14 +81,14 @@ Utilize o ícone de lupa (buscar) no aplicativo ou site e digite o título, gên
 | Título da série ou filme | Lost, Crepúsculo |
 | Idioma original | Filme em francês, Série em alemão |
 
-![Tela buscar](https://github.com/amndfreitas/writing/blob/main/tela%20buscar.png)
+![Tela buscar](https://raw.githubusercontent.com/amndfreitas/writing/refs/heads/main/tela_buscar-removebg-preview.png)
 
 
 ### 3.2 Minha Lista: Salvando para assistir depois
 
 Para salvar filmes e séries na sua lista da Netflix, localize o título desejado e clique ou toque no ícone de "+" (Adicionar à Minha Lista) na página de detalhes do conteúdo. Essa opção está disponível em navegadores, TVs e aplicativos móveis (Android/iOS), permitindo acesso fácil a conteúdos salvos posteriormente. 
 
-![Minha lista](https://github.com/amndfreitas/writing/blob/main/tela%20minha%20lista.png)
+![Minha lista](https://raw.githubusercontent.com/amndfreitas/writing/refs/heads/main/tela_minha_lista-removebg-preview.png)
 
 
 ---
@@ -119,7 +121,7 @@ Para séries, selecione o botão de download ao lado de um episódio ou toque no
 Para economizar o plano de dados do celular, recomendamos fazer os downloads quando estiver conectado a uma rede Wi-Fi.
 Se você cancelar a conta, os títulos baixados serão excluídos do aparelho. Se você reiniciar sua assinatura, será necessário baixá-los novamente.
 
-![alt](https://github.com/amndfreitas/writing/blob/main/tela%20baixar.png)
+![Tela baixar](https://raw.githubusercontent.com/amndfreitas/writing/refs/heads/main/tela_baixar-removebg-preview.png)
 
 ---
 
@@ -152,7 +154,7 @@ Se você cancelar a conta, os títulos baixados serão excluídos do aparelho. S
 
 > Observação: alguns recursos de perfis não estão disponíveis em perfis Infantis.
 
-![Criar perfil](https://github.com/amndfreitas/writing/blob/main/tela%20criar%20perfil.png)
+![Criar perfil](https://raw.githubusercontent.com/amndfreitas/writing/refs/heads/main/tela_criar_perfil-removebg-preview.png)
 
 
 ### 5.2 Controle parental (Netflix Kids)
@@ -161,11 +163,11 @@ Quando você escolhe uma classificação etária para um perfil, ele só exibe s
 Como definir a classificação etária para um perfil:
 
 Observação: alterações na Classificação etária de um perfil infantil devem ser feitas em um navegador.
-1. Em um **navegador**, acesse a página ```Conta```.
+1. Em um **navegador**, acesse a página **Conta**.
 
-2. Selecione ```Perfis```.
+2. Selecione **Perfis**.
 
-3. Selecione ```Ajustar controles parentais``` e escolha um perfil.
+3. Selecione **Ajustar controles parentais** e escolha um perfil.
 
 4. Confirme sua identidade digitando um código enviado para seu email ou telefone, ou inserindo a senha da sua conta Netflix.
 
@@ -177,7 +179,7 @@ Observação: alterações na Classificação etária de um perfil infantil deve
 
 Os perfis com classificação etária definida só mostram títulos que correspondem à configuração selecionada.
 
-![Controle parental](https://github.com/amndfreitas/writing/blob/main/tela%20controle%20parental.png)
+![Controle parental](https://raw.githubusercontent.com/amndfreitas/writing/refs/heads/main/tela_controle_parental-removebg-preview.png)
 
 
 ---

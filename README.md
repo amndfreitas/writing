@@ -1,3 +1,4 @@
+![Logo](https://github.com/amndfreitas/writing/blob/main/netflix-logo-1-1-removebg-preview.png)
 # Índice
 1. [Introdução à Netflix](#1-introducao-a-netflix)
 2. [Primeiros Passos](#2-primeiros-passos)
@@ -5,8 +6,8 @@
 4. [Recursos de Visualização](#4-recursos-de-visualizacao)
 5. [Gerenciamento de Perfis](#5-gerenciamento-de-perfis)
 
+
 ---
-![Logo](https://raw.githubusercontent.com/amndfreitas/writing/main/netflix-logo-1-1-removebg-preview.png)
 
 
 # 1. Introdução à Netflix
@@ -28,46 +29,9 @@ Você pode assistir à Netflix em qualquer smart TV, smartphone, tablet, aparelh
 
 Várias TVs, aparelhos de streaming para TV e reprodutores de mídia já vêm com o aplicativo Netflix. Para começar, clique nos links abaixo para saber como baixar a Netflix no seu aparelho.
 
+- [Amazon Fire TV/Stick](https://github.com/amndfreitas/writing/wiki/Amazon-fire-tv)
 
-<details>
-<summary title="Clique para expandir"><strong>Amazon Fire TV/Stick — instruções</strong></summary>
-
-1. Na tela principal, selecione <strong>Buscar</strong>.
-
-2. Digite "Netflix" e, em seguida, selecione <strong>Netflix</strong>.
-
-3. Selecione <strong>Netflix</strong>.
-
-4. Selecione <strong>Grátis</strong> ou <strong>Download</strong>.
-
-5. Quando o download terminar, selecione <strong>Abrir</strong> e siga as instruções na tela.
-
-</details>
- 
-<div style="height:0.9rem"></div>
-
-<details>
-<summary title="Clique para expandir"><strong>Apple TV — instruções</strong></summary>
-
-Para conectar a Apple TV à sua conta Netflix, vá para a tela inicial e siga as instruções abaixo.
-
-<strong>Instale o aplicativo Netflix</strong>
-
-1. Na tela inicial, localize e selecione a App Store.
-
-2. Na App Store, pesquise por Netflix para encontrar o aplicativo e toque em Obter para iniciar a instalação.
-
-> Observação: a Netflix está disponível na Apple TV HD (4ª geração) e versões mais recentes.
-
-3. Após a instalação, o aplicativo Netflix será exibido na tela inicial.
-
-<strong>Entre na Netflix</strong>
-
-1. Abra o aplicativo Netflix.
-
-2. Escolha Entrar para usar uma conta existente da Netflix.
-
-</details>
+- [Apple TV](https://github.com/amndfreitas/writing/wiki/Apple-TV)
 
 - [Chromecast](https://github.com/amndfreitas/writing/wiki/Chromecast)
 
@@ -113,12 +77,13 @@ Você pode assistir à Netflix videogames e aparelhos de realidade aumentada e r
 
 Acesse netflix.com (ou baixe o app), insira seu e-mail e crie uma senha. Escolha um dos planos (Básico, Padrão ou Premium), defina a forma de pagamento (cartão de crédito/débito ou cartão pré-pago) e confirme para iniciar sua assinatura, permitindo assistir imediatamente em diversos dispositivos.
 
-![Criar conta](https://raw.githubusercontent.com/amndfreitas/writing/main/tela%20criar%20conta%20%281%29.png)
+![Criar conta](https://github.com/amndfreitas/writing/blob/main/tela%20criar%20conta%20(1).png)
 
 ### 2.2 Escolhendo o plano ideal
 
 Para escolher o plano ideal da Netflix, considere o número de pessoas assistindo simultaneamente, a qualidade de imagem desejada (HD ou 4K) e se aceita anúncios. O plano Padrão com Anúncios é o mais econômico, o Padrão oferece bom custo-benefício (1080p), e o Premium é ideal para 4K e famílias. 
-Principais Planos Netflix
+
+![Escolher planos](https://github.com/amndfreitas/writing/blob/main/tela%20escolher%20planos.png)
 
 ---
 # 3. Explorando Conteúdos
@@ -134,15 +99,14 @@ Utilize o ícone de lupa (buscar) no aplicativo ou site e digite o título, gên
 | Título da série ou filme | Lost, Crepúsculo |
 | Idioma original | Filme em francês, Série em alemão |
 
-![Tela buscar](https://raw.githubusercontent.com/amndfreitas/writing/main/tela%20buscar.png)
+![Tela buscar](https://github.com/amndfreitas/writing/blob/main/tela%20buscar.png)
 
 ### 3.2 Minha Lista: Salvando para assistir depois
 
 Para salvar filmes e séries na sua lista da Netflix, localize o título desejado e clique ou toque no ícone de "+" (Adicionar à Minha Lista) na página de detalhes do conteúdo. Essa opção está disponível em navegadores, TVs e aplicativos móveis (Android/iOS), permitindo acesso fácil a conteúdos salvos posteriormente. 
 
-
-![Minha lista](https://raw.githubusercontent.com/amndfreitas/writing/main/tela%20minha%20lista.png)
-
+![Minha lista](https://github.com/amndfreitas/writing/blob/main/tela%20minha%20lista.png)
+---
 
 # 4. Recursos de Visualização
 
@@ -174,11 +138,62 @@ Para séries, selecione o botão de download ao lado de um episódio ou toque no
 Para economizar o plano de dados do celular, recomendamos fazer os downloads quando estiver conectado a uma rede Wi-Fi.
 Se você cancelar a conta, os títulos baixados serão excluídos do aparelho. Se você reiniciar sua assinatura, será necessário baixá-los novamente.
 
+![alt](https://github.com/amndfreitas/writing/blob/main/tela%20baixar.png)
+---
 
-![Baixar](https://raw.githubusercontent.com/amndfreitas/writing/main/tela%20baixar.png)
+# 5. Gerenciamento de Perfis
 
+### 5.1 Criando perfis individuais
 
-# Headline
+**1.**  Acesse a seção Gerenciar perfis no seu aparelho:
 
-> An awesome project.
+- Na TV ou aparelho de streaming: acesse a tela de seleção de perfil e escolha Adicionar perfil+.
 
+- No navegador: acesse a página Gerenciar perfis
+
+- No iPhone, iPad ou celular/tablet Android:
+
+     I - Abra o aplicativo Netflix.
+
+     II - No canto inferior direito, toque em Minha Netflix.
+
+     III - No canto superior direito, toque no ícone Menu.
+
+     IV - Toque em Gerenciar perfis.
+
+**2.** Selecione Adicionar perfil.
+
+**3.** Escolha o nome do perfil.
+
+**4.** Para usar a experiência Netflix Infantil, selecione Infantil.
+
+**5.** Selecione Continuar ou Salvar. O novo perfil vai aparecer na lista de perfis da sua conta.
+
+> Observação: alguns recursos de perfis não estão disponíveis em perfis Infantis.
+
+![Criar perfil](https://github.com/amndfreitas/writing/blob/main/tela%20criar%20perfil.png)
+
+### 5.2 Controle parental (Netflix Kids)
+
+Para escolher os tipos de séries, filmes e jogos que as crianças podem curtir na Netflix, você pode gerenciar os perfis individualmente ou criar um perfil com a experiência Netflix Infantil.
+Quando você escolhe uma classificação etária para um perfil, ele só exibe séries, filmes e jogos que estejam dentro dela. Também é possível bloquear filmes ou séries específicos em perfis individuais.
+Como definir a classificação etária para um perfil:
+
+Observação: alterações na Classificação etária de um perfil infantil devem ser feitas em um navegador.
+1. Em um **navegador**, acesse a página ```Conta```.
+
+2. Selecione ```Perfis```.
+
+3. Selecione ```Ajustar controles parentais``` e escolha um perfil.
+
+4. Confirme sua identidade digitando um código enviado para seu email ou telefone, ou inserindo a senha da sua conta Netflix.
+
+5. Defina a classificação etária desejada.
+
+6. Escolha Salvar.
+
+> Observação: as configurações de classificação etária aplicáveis aos jogos são as mesmas definidas para filmes e séries.
+
+Os perfis com classificação etária definida só mostram títulos que correspondem à configuração selecionada.
+
+![Controle parental](https://github.com/amndfreitas/writing/blob/main/tela%20controle%20parental.png)

@@ -16,7 +16,9 @@
 
 ### 1.2 Como funciona
 A Netflix funciona por meio de uma assinatura mensal que libera acesso ilimitado a filmes e séries disponíveis em seu catálogo. A qualidade da imagem (SD, HD ou 4K) é ajustada automaticamente de acordo com plano escolhido e com sua velocidade de internet. 
+
 Além do streaming online, você pode baixar títulos para assistir offline. 
+
 Importante: a conta deve ser usada em uma única "Residência Netflix", mas é possível contratar assinantes extras que morem em outros endereços.
 
 ### 1.3 Dispositivos compatíveis
@@ -49,7 +51,7 @@ Acesse pelo navegador ou app para Windows. Veja os [Requisitos de sistema](#requ
 # 2. Primeiros Passos 
 
 ### 2.1 Como criar sua conta 
-Acesse netflix.com (ou baixe o app), insira seu e-mail e crie uma senha. Escolha um dos planos (Básico, Padrão ou Premium), defina a forma de pagamento (cartão de crédito/débito ou cartão pré-pago) e confirme para iniciar sua assinatura, permitindo assistir imediatamente em diversos dispositivos.
+Acesse netflix.com (ou baixe o app em seu dispositivo [iOS](https://apps.apple.com/br/app/netflix/id363590051) ou [Android](https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=pt_BR)), insira seu e-mail e crie uma senha. Escolha um dos planos (Básico, Padrão ou Premium), defina a forma de pagamento (cartão de crédito/débito ou cartão pré-pago) e confirme para iniciar sua assinatura, permitindo assistir imediatamente em diversos dispositivos.
 
 ![Criar conta](https://raw.githubusercontent.com/amndfreitas/writing/refs/heads/main/tela_criar_conta__1_-removebg-preview.png)
 
